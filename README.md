@@ -18,5 +18,5 @@ Editor de código (recomendado: Visual Studio Code)
  - `git config --global user.email "tu@email.com"`
 
 3. Flujo de trabajo:
-git `add .`: Para pasar los archivos al Staging Area
-git `commit -m "Primer commit"`: Para registrar los cambios en la cabeza (HEAD) del repositorio
+- git `add .`: Para pasar los archivos al Staging Area
+- git `commit -m "Primer commit"`: Para registrar los cambios en la cabeza (HEAD) del repositorio

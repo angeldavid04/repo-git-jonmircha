@@ -14,24 +14,12 @@ Editor de código (recomendado: Visual Studio Code)
 
 ### Comandos iniciales ejecutados:
 
-1. Inicialización: `git init` (para empezar a trackear la carpeta)`
-
-```bash
-mkdir carpeta
-cd carpeta
-touch README.md
-touch .gitignore
-git init
-code .
-```
+1. Inicialización: `git init` (para empezar a trackear la carpeta)
 
 2. Configuración:
 
 - `git config --global user.name "Tu Nombre"`
 - `git config --global user.email "tu@email.com"`
-- `git config --global user.ui true`
-- `git config --global core.editor "code --wait"`
-- `git config --global core.autocrlf true`
 
 3. Flujo de trabajo:
 
